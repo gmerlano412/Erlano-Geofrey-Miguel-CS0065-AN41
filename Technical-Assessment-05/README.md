@@ -57,7 +57,7 @@ This program uses **polarity** only:
 Run the program:
 
 ```bash
-python laboratory_technical5.py
+python technical5.py
 ```
 
 Type a sentence when prompted. Repeat for all 10 sentences, and the summary appears at the end.
